@@ -1,6 +1,8 @@
 # Proyecto de Segmentación de Clientes
+
 ## Grupo:
 - Grupo 03
+
 # Implementación:
 ## Análisis Exploratorio:
 Comenzamos con un análisis detallado del conjunto de datos, compuesto por 28,302 filas y 186 columnas. Observamos que el dataset incluye 29 columnas con valores float64, 4 columnas con valores int64 y 153 columnas con datos de tipo object.
@@ -18,8 +20,10 @@ Se realiza la creación del conjunto de datos listo para implementar un algoritm
 
 Se ha determinado el número óptimo de clusters para el modelo utilizando el método del codo y el coeficiente de silueta.
 
-
-#Análisis Avanzado:
+## Análisis Avanzado:
 Para confirmar las correlaciones entre nuestras variables numéricas, hemos revisado varios gráficos. Esto nos permitirá comprender mejor la estructura de los datos y su idoneidad para el modelo de clustering.
 
-# Ejecución:
+# Ejecución en Google Colaboratory:
+Dado que el notebook está conectado con Github para acceder al conjunto de datos, el proceso se resume en: 
+1. Cargar el notebook en Colaboratory
+2. Ejecutar todas las celdas
